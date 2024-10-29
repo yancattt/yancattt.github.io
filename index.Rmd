@@ -1,7 +1,8 @@
 ---
-title: "Holy cow!"
+title: "Welcome to My Website"
+output: html_document
 ---
 
-### I have a webpage!
+# Hello, I'm Yan!
 
-And I can put all kinds of stuff on it!
+Welcome to my personal website. I am currently pursuing a Master of Public Health at Columbia University with a focus on Epidemiology. Here, you can learn more about my work and experiences.
