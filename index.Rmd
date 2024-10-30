@@ -4,6 +4,7 @@ output:
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
+    theme: cosmo
 ---
 
 # Hello, I'm Yan!
@@ -15,3 +16,5 @@ Welcome to my personal website. I am currently pursuing a Master of Public Healt
 - [About Me](about.html)
 - [Instacart Analysis](problem-2.html)
 - [My GitHub Page](https://github.com/yancattt)
+
+I am always open to new opportunities and collaborations. Please reach out if you'd like to connect!
