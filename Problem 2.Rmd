@@ -58,10 +58,24 @@ instacart_s |>
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Order Number vs Add to Cart Order
 
 ```{r}
-
+instacart_s |>
+  plot_ly(
+    x = ~order_number,
+    y = ~add_to_cart_order,
+    type = 'scatter',
+    mode = 'markers',
+    color = ~order_dow,
+    colors = "plasma",
+    marker = list(size = 6, opacity = 0.6)
+  ) |>
+  layout(
+    title = "Order Number vs Add to Cart Order",
+    xaxis = list(title = "Order Number"),
+    yaxis = list(title = "Add to Cart Order")
+  )
 ```
 
 ### Chart C
