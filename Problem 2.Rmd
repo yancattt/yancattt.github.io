@@ -1,9 +1,10 @@
 ---
-title: "Instacart Interactive Dashboard"
+title: "Instacart Dashboard"
 output: 
   flexdashboard::flex_dashboard:
-    orientation: columns
+    orientation: rows
     vertical_layout: fill
+    theme: cosmo
 ---
 
 ```{r setup, include=FALSE}

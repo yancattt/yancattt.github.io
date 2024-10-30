@@ -1,8 +1,17 @@
 ---
-title: "Welcome to My Website"
-output: html_document
+title: "My Personal Website"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
 ---
 
 # Hello, I'm Yan!
 
 Welcome to my personal website. I am currently pursuing a Master of Public Health at Columbia University with a focus on Epidemiology. Here, you can learn more about my work and experiences.
+
+## Quick Links
+
+- [About Me](about.html)
+- [Instacart Analysis](problem-2.html)
+- [My GitHub Page](https://github.com/yancattt)
