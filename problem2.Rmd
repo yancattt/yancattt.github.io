@@ -34,7 +34,7 @@ instacart_s <- instacart_c |>
 ```
 
 
-Column {data-width=650}
+Orders by Department {data-width=650}
 -----------------------------------------------------------------------
 ### Overview of Orders by Department
 
@@ -56,7 +56,7 @@ instacart_s |>
 
 ```
 
-Column {data-width=350}
+Add to Cart Order {data-width=350}
 -----------------------------------------------------------------------
 
 ### Order Number vs Add to Cart Order

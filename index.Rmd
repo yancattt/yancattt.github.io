@@ -15,7 +15,7 @@ Welcome to my personal website. I am currently pursuing a Master of Public Healt
 ## Quick Links
 
 - [About Me](about.html)
-- [Instacart Analysis](dashboard.html)
+- [Instacart Analysis](problem2.html)
 - [My GitHub Page](https://github.com/yancattt)
 
 I am always open to new opportunities and collaborations. Please reach out if you'd like to connect!
