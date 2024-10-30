@@ -1,9 +1,10 @@
 ---
-title: "Instacart Dashboard"
+title: "Dashboard"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    source: embed
 ---
 
 ```{r setup, include=FALSE}
@@ -34,9 +35,11 @@ instacart_s <- instacart_c |>
 ```
 
 
+
 Column {data-width=650}
 -----------------------------------------------------------------------
-### Overview of Orders by Department
+
+### Chart A
 
 ```{r}
 instacart_s |>
@@ -53,13 +56,12 @@ instacart_s |>
     title = "Number of Products Ordered by Department",
     xaxis = list(title = "Department", tickangle = 45),
     yaxis = list(title = "Number of Orders") )
-
 ```
 
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Order Number vs Add to Cart Order
+### Chart B
 
 ```{r}
 instacart_s |>
@@ -79,7 +81,7 @@ instacart_s |>
   )
 ```
 
-### Add to Cart Order by Day of the Week
+### Chart C
 
 ```{r}
 instacart_s |>
@@ -96,6 +98,4 @@ instacart_s |>
     yaxis = list(title = "Add to Cart Order")
   )
 ```
-
-
 
