@@ -1,0 +1,65 @@
+---
+title: "Instacart Interactive Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(plotly)
+library(tidyverse)
+library(p8105.datasets)
+```
+
+```{r}
+# Load the Instacart dataset
+data("instacart")
+```
+
+```{r}
+# Data Cleaning Step
+instacart_c = instacart |>
+  filter(!is.na(order_dow) & !is.na(order_hour_of_day)) |>  
+  mutate(
+    order_dow = factor(order_dow, labels = c("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat")),
+    reordered = factor(reordered, levels = c(0, 1), labels = c("No", "Yes"))
+  )
+
+# Take a sample of the data for better performance
+set.seed(123)
+instacart_s = instacart_c |>
+  sample_n(5000)  
+```
+
+```{r}
+
+```
+
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
