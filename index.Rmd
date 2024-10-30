@@ -1,11 +1,11 @@
+
 ---
-title: "My Personal Website"
+title: "Yan's Personal Website"
 output: 
-  flexdashboard::flex_dashboard:
-    orientation: columns
-    vertical_layout: fill
+  html_document:
     theme: cosmo
 ---
+
 
 # Hello, I'm Yan!
 
