@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-      - text: "Problem 2"
+    - text: "Problem 2"
       href: problem-2.html
     - icon: fa-envelope fa-lg
       href: mailto:yanlifafa@gmail.com
@@ -16,5 +16,7 @@ navbar:
 
 output:
   html_document:
+    toc: true
+    toc_depth: 2
     theme: cosmo
 
