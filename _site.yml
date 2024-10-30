@@ -8,7 +8,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Problem 2"
-      href: problem-2.html
+      href: problem2.html
     - icon: fa-envelope fa-lg
       href: mailto:yanlifafa@gmail.com
     - icon: fa-github fa-lg

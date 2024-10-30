@@ -1,7 +1,10 @@
 
 ---
 title: "Yan's Personal Website"
-
+output: 
+  html_document:
+    toc: true
+    theme: cosmo
 ---
 
 
@@ -12,7 +15,7 @@ Welcome to my personal website. I am currently pursuing a Master of Public Healt
 ## Quick Links
 
 - [About Me](about.html)
-- [Instacart Analysis](problem-2.html)
+- [Instacart Analysis](problem2.html)
 - [My GitHub Page](https://github.com/yancattt)
 
 I am always open to new opportunities and collaborations. Please reach out if you'd like to connect!
