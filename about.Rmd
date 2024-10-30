@@ -7,12 +7,66 @@ output:
 ---
 
 
-Hello! I'm Yan Li, a Master of Public Health student specializing in Epidemiology at Columbia University.
+# About Me
 
-## Academic Background
-- **Master of Public Health**, Epidemiology, Columbia University, 2025 (expected)
-- **Bachelor of Science**, Medical Laboratory Science, Michigan State University
+Hello! My name is **Yan Li**, and I am a second-year master's student at Columbia University Mailman School of Public Health, focusing on **Epidemiology**. I am passionate about **public health research, data science**, and **health education**.
 
-## Professional Experience
-- **Medical Laboratory Technologist**, ProMedica Toledo Hospital
-- **Research Intern**, The Floating Hospital, Global Health Programs
+I have a background in **Medical Laboratory Science** and have worked as a **Medical Laboratory Technologist** in both the United States and China. Below, you'll find more information about my experience, education, research projects, and skills.
+
+## Work Experience
+
+### ProMedica Toledo Hospital, Toledo, OH
+**Medical Laboratory Technologist II** (01/2021 - 02/2023)
+- Processed biological specimens for data analysis and result interpretation following established procedures.
+- Operated laboratory instruments and performed scheduled maintenance procedures.
+- Maintained accurate quality control records and recognized equipment malfunctions to take appropriate actions.
+- Provided timely results to healthcare teams and maintained patient confidentiality.
+
+**Internship Student** (07/2020 - 11/2020)
+- Trained in chemistry, microbiology, hematology, central processing, and the blood bank.
+- Processed patient samples daily, drafted reports, and maintained quality control.
+
+### Shenzhen Bao'an District People's Hospital, Shenzhen, China
+**Hospital Intern** (05/2019 - 06/2019)
+- Assisted in operating activities of the Clinical Laboratory and Central Research Department.
+- Collected and handled body fluid specimens, following asepsis protocols.
+- Prioritized and prepared specimens for analysis.
+
+## Research Experience
+
+### Global Health and Pandemics Virtual Research Program (10/2022 - 11/2022)
+- Studied core concepts in epidemiology, focusing on infectious diseases, risk factors, and outbreaks.
+- Worked in teams to complete a research report on **monkeypox** and public health interventions in Nigeria.
+- Analyzed healthcare system challenges in Kenya, contributing to a research paper accepted for the **BLSME 2023 Conference**.
+
+### Plant-Based Milk Study (Course Research Project) (04/2017)
+- Conducted experiments to determine protein and sugar concentrations in various types of milk using **Benedict's test** and **Bradford assay**.
+- Created dilutions, performed spectrometer analysis, and applied regression models to study trends.
+
+## Education
+
+### Columbia University, Mailman School of Public Health, New York, NY
+**Master of Public Health (MPH) in Epidemiology**  
+**Certificate in Applied Biostatistics and Public Health Data Science** (Expected Graduation: May 2025)
+
+### Michigan State University, East Lansing, MI
+**Bachelor of Science: Medical Laboratory Science** (08/2016 - 12/2020)  
+**Overall GPA**: 3.49/4.0
+
+- **Management Project**: Compared patient data using **POC Urine Dipstick** and **Urinalysis** in laboratories at **ProMedica Toledo Hospital**.
+
+## Activities
+
+### Silk Road Chinese Orchestra Student Group, East Lansing, MI
+**President and Guzheng Performer** (2019 - 2020)
+- Conducted traditional Chinese music performances on and off campus, promoting Chinese culture and language.
+- Performed at the **Commission's 25th anniversary** at Lansing Center in 2019.
+
+### Volunteer, McLaren Greater Lansing, Lansing, MI (09/2018 - 12/2018)
+- Restocked medical supplies and provided companionship to patients.
+- Delivered laboratory results and biological specimens.
+
+
+---
+
+I am always looking for opportunities to contribute to meaningful public health initiatives. Please feel free to [contact me](mailto:yanlifafa@gmail.com) if you are interested in collaborating or if you'd like to learn more about my work.
