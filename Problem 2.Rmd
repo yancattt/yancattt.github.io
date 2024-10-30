@@ -33,19 +33,26 @@ instacart_s = instacart_c |>
   sample_n(5000)  
 ```
 
-```{r}
-
-```
-
-
 
 Column {data-width=650}
 -----------------------------------------------------------------------
-
-### Chart A
+### Overview of Orders by Department
 
 ```{r}
-
+instacart_s |>
+  group_by(department) |>
+  summarise(count = n()) |>
+  arrange(desc(count)) |>
+  plot_ly(
+    x = ~department,
+    y = ~count,
+    type = 'bar',
+      color = ~department,
+      colors = "viridis" ) |>
+  layout(
+    title = "Number of Products Ordered by Department",
+    xaxis = list(title = "Department", tickangle = 45),
+    yaxis = list(title = "Number of Orders") )
 ```
 
 Column {data-width=350}
